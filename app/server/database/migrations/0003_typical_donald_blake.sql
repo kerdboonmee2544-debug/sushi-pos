@@ -1,0 +1,1 @@
+ALTER TABLE `products` ADD `category` varchar(100) DEFAULT 'อื่น ๆ' NOT NULL;

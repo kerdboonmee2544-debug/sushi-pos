@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1789492142852,
+      "tag": "0000_polite_peter_quill",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1789492341421,
+      "tag": "0001_curly_aqueduct",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1789581732636,
+      "tag": "0002_chunky_blockbuster",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1789656688715,
+      "tag": "0003_typical_donald_blake",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1789664658892,
+      "tag": "0004_chief_nomad",
+      "breakpoints": true
+    }
+  ]
+}
